@@ -1,0 +1,24 @@
+
+
+
+h2{
+    background-color: lightcoral;
+    font-family: fantasy;
+    font-size: xx-large ;
+    color: darkblue;
+}
+
+
+
+.hero{
+    color: blueviolet;
+    background-color: salmon;
+}
+
+
+.nothero{
+    color: brown;
+    background-color: palevioletred;
+}
+
+
